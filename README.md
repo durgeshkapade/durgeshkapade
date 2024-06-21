@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img src="[https://i.ibb.co/85p5fGx/my-avatar.png](https://i.pinimg.com/originals/c0/4b/01/c04b017b6b9d1c189e15e6559aeb3ca8.png)" alt="My Avatar">
+    <img src="https://i.pinimg.com/originals/c0/4b/01/c04b017b6b9d1c189e15e6559aeb3ca8.png" alt="My Avatar">
   </a>
 </div>
 
