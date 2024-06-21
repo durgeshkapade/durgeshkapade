@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="#">
-    <img src="" alt="My Avatar" style="width : 225px;   background-color: #f4f4f4;  mix-blend-mode: multiply" >
-  </a>
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Durgesh Kapade .</h1>
 <h3 align="center">A passionate Web frontend developer ...</h3>
