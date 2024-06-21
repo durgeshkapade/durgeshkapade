@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Durgesh Kapade .</h1>
 <h3 align="center">A passionate Web frontend developer ...</h3>
-
-<div align="center">
-  <a href="#">
-    <img src="https://i.ibb.co/85p5fGx/my-avatar.png" alt="My Avatar">
-  </a>
-</div>
+<br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgeshkapade&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshkapade" /> </p>
@@ -27,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
