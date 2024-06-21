@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img src="https://i.pinimg.com/originals/c0/4b/01/c04b017b6b9d1c189e15e6559aeb3ca8.png" alt="My Avatar" style="width : 125px;   background-color: #f4f4f4;  mix-blend-mode: multiply" >
+    <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/1d4b9e36-8c72-4be6-89ba-61b9f76c57b0-profile_image-300x300.png" alt="My Avatar" style="width : 125px;   background-color: #f4f4f4;  mix-blend-mode: multiply" >
   </a>
 </div>
 
