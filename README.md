@@ -50,14 +50,20 @@
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 
 
+# 📊 GitHub Stats:
+[![Durgesh GitHub | Stats](https://stats.quine.sh/durgeshkapade/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=durgeshkapade)
+[![Durgesh GitHub | Dependencies](https://stats.quine.sh/durgeshkapade/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=durgeshkapade)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgeshkapade&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgeshkapade&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgeshkapade&theme=github_dark)
 
 
 
 
-
-
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshkapade&show_icons=true&locale=en" alt="durgeshkapade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshkapade&" alt="durgeshkapade" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshkapade&show_icons=true&locale=en&layout=compact" alt="durgeshkapade" /></p>
+-->
