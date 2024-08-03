@@ -1,9 +1,13 @@
 
+## <picture><img src = "https://user-images.githubusercontent.com/67017303/209289506-0ecedebd-8968-43cb-a93b-e237582bc6d1.gif" width = 50px></picture> **About me**
 
 <h1 align="center">Hi 👋, I'm Durgesh Kapade .</h1>
 <h3 align="center">A passionate Web frontend developer ...</h3>
 <br>
 
+<div align="center">
+    <picture> <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif"></picture>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgeshkapade&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshkapade" /> </p>
 
