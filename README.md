@@ -5,10 +5,11 @@
 <h3 align="center">A Passionate Full Stack Web Developer ...</h3>
 <br>
 
-<div align="right">
+<div align="center">
     <picture> <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif"></picture>
 </div>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=durgeshkapade&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshkapade" /> </p>
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
@@ -19,7 +20,7 @@
 - ⚡ **I love exploring new things.**
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=durgeshkapade&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshkapade" /> </p>
+
 
 ## **Coding Profiles**:
 
